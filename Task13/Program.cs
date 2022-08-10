@@ -16,7 +16,7 @@ while (true)
     }
     else 
     {
-        Console.WriteLine("нет");
+        Console.WriteLine("Третьей цифры нет");
         break;
     }
 }
