@@ -8,4 +8,4 @@ Console.Write("Введите любое трезначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int result_num1 = num % 100;
 int result_num2 = result_num1 / 10;
-Console.WriteLine(result_num2);
+Console.WriteLine($" Вторая цифра числа {num} равна: {result_num2}");
